@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/withDebounce.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module withDebounce
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/Bounce_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bounce_tb

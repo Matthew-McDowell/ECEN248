@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sr_latch_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sr_latch_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="100001fs"></ZoomEndTime>
+      <Cursor1Time time="100000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="158"></NameColumnWidth>
+      <ValueColumnWidth column_width="113"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wave_markers>
+      <marker time="100000" label="" />
+      <marker time="100000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/sr_latch_tb/En" type="logic">
+      <obj_property name="ElementShortName">En</obj_property>
+      <obj_property name="ObjectShortName">En</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sr_latch_tb/S" type="logic">
+      <obj_property name="ElementShortName">S</obj_property>
+      <obj_property name="ObjectShortName">S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sr_latch_tb/R" type="logic">
+      <obj_property name="ElementShortName">R</obj_property>
+      <obj_property name="ObjectShortName">R</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sr_latch_tb/Q" type="logic">
+      <obj_property name="ElementShortName">Q</obj_property>
+      <obj_property name="ObjectShortName">Q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sr_latch_tb/notQ" type="logic">
+      <obj_property name="ElementShortName">notQ</obj_property>
+      <obj_property name="ObjectShortName">notQ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sr_latch_tb/passed" type="array">
+      <obj_property name="ElementShortName">passed[7:0]</obj_property>
+      <obj_property name="ObjectShortName">passed[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sr_latch_tb/uut/nandSEN" type="logic">
+      <obj_property name="ElementShortName">nandSEN</obj_property>
+      <obj_property name="ObjectShortName">nandSEN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sr_latch_tb/uut/nandREN" type="logic">
+      <obj_property name="ElementShortName">nandREN</obj_property>
+      <obj_property name="ObjectShortName">nandREN</obj_property>
+   </wvobject>
+</wave_config>

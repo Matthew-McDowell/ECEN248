@@ -1,0 +1,7 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+FATAL_ERROR: Vivado Simulator kernel has discovered an exceptional condition from which it cannot recover. Process will terminate. For technical support on this issue, please open a WebCase with this project attached at http://www.xilinx.com/support.
+Time: 0 ps  Iteration: 0  Process: /cla_4bit_tb/uut/NetRegassign31_5
+  File: C:/Users/justi/lab9/lab9.srcs/sources_1/new/carry_lookahead_4bit.v
+
+HDL Line: C:/Users/justi/lab9/lab9.srcs/sources_1/new/carry_lookahead_4bit.v:31

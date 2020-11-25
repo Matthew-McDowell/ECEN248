@@ -1,0 +1,12 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/cla_16bit_tb.v,1601856212,verilog,,,,cla_16bit_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/cla_4bit_tb.v,1601856212,verilog,,,,cla_4bit_tb,,,,,,,,
+C:/Users/justi/lab_9/lab_9.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/justi/lab_9/lab_9.srcs/sources_1/new/block_carry_lookahead_unit.v,1604362842,verilog,,C:/Users/justi/lab_9/lab_9.srcs/sources_1/new/carry_lookahead_16bit.v,,block_carry_lookahead_unit,,,,,,,,
+C:/Users/justi/lab_9/lab_9.srcs/sources_1/new/carry_lookahead_16bit.v,1604363295,verilog,,C:/Users/justi/lab_9/lab_9.srcs/sources_1/new/carry_lookahead_unit_delay.v,,carry_lookahead_16bit,,,,,,,,
+,,,,C:/Users/justi/lab_9/lab_9.srcs/sources_1/new/generate_propogate_unit_delay.v,,carry_lookahead_unit,,,,,,,,
+,,,,C:/Users/justi/lab_9/lab_9.srcs/sources_1/new/summation_unit_delay.v,,generate_propagate_unit,,,,,,,,
+,,,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/cla_16bit_tb.v,,summation_unit,,,,,,,,

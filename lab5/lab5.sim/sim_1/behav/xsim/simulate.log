@@ -1,0 +1,67 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 03 should be 05
+       Arithmetic Logic Unit Test failed: 06 should be 00
+       Arithmetic Logic Unit Test failed: 03 should be 07
+       Arithmetic Logic Unit Test failed: 17 should be 03
+       Arithmetic Logic Unit Test failed: 01 should be 09
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 00 should be 0a
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 06 should be 0a
+       Arithmetic Logic Unit Test failed: 03 should be 19
+       Arithmetic Logic Unit Test failed: 18 should be 0e
+       Arithmetic Logic Unit Test failed: 04 should be 00
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 04 should be 06
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 01 should be 0b
+       Arithmetic Logic Unit Test failed: 0c should be 02
+       Arithmetic Logic Unit Test failed: 0d should be 13
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 02 should be 16
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 0e should be 14
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 14 should be 00
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 1c should be 00
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 1b should be 0f
+       Arithmetic Logic Unit Test passed
+       Arithmetic Logic Unit Test failed: 00 should be 1c
+Some tests failed

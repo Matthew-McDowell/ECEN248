@@ -1,0 +1,19 @@
+Exception at PC 0x00007FFF3C2D4677
+Attemped to read address 0x00000000401A8E7C
+Printing stacktrace...
+
+[0] (iki_vlog_memcmp_0_bitvector+0x37) [0x00007FFF3C2D4677]
+[1] (iki_vlog_memcmp_0_bitvector+0x37) [0x00007FFF3C2D4677]
+[2] (vlog_ep_nsr_tree+0xb6) [0x00007FFF3C318906]
+[3] (Scheduler::getSchedulerMap+0x44fa) [0x00007FFF3C22A74A]
+[4] (xsi_trace_all+0x11028) [0x00007FFF3C3317F8]
+[5] (xsi_trace_all+0xf5cb) [0x00007FFF3C32FD9B]
+[6]  [0x0000000000404252]
+[7] (xsi_trace_all+0x12e21) [0x00007FFF3C3335F1]
+[8] (xsi_trace_all+0xb1e0) [0x00007FFF3C32B9B0]
+[9] (xsi_trace_all+0x98e5) [0x00007FFF3C32A0B5]
+[10] (xsi_trace_all+0x96d9) [0x00007FFF3C329EA9]
+[11] (configthreadlocale+0x92) [0x00007FFFED2E14C2]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFFEED57034]
+[13] (RtlUserThreadStart+0x21) [0x00007FFFEFBBCEC1]
+Done

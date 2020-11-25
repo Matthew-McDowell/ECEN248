@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/justi/lab8/lab8.srcs/sources_1/new/half_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/justi/lab8/lab8.srcs/sources_1/new/up_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module up_counter
+INFO: [VRFC 10-311] analyzing module Threebit_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/up_counter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module up_counter_tb

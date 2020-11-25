@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/Bounce_tb.v,1603748201,verilog,,,,bounce_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/noDebounce.v,1601856212,verilog,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/Bounce_tb.v,,noDebounce,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/withDebounce.v,1601856212,verilog,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/Bounce_tb.v,,withDebounce,,,,,,,,
+C:/Users/justi/lab8_fixed/lab8_fixed.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,

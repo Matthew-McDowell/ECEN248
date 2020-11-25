@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Oct 12 13:11:07 2020
+# Process ID: 6768
+# Current directory: C:/Users/justi/lab6/lab6.runs/synth_1
+# Command line: vivado.exe -log two_four_decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source two_four_decoder.tcl
+# Log file: C:/Users/justi/lab6/lab6.runs/synth_1/two_four_decoder.vds
+# Journal file: C:/Users/justi/lab6/lab6.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source two_four_decoder.tcl -notrace

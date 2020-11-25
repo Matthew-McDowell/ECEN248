@@ -1,0 +1,20 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/adder_2bit_tb.v,1603169624,verilog,,,,add_2bit_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/adder_synchronous_tb.v,1603168565,verilog,,,,adder_synchronous_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/d_flip_flop_behavioral_tb.v,1601856212,verilog,,,,d_flip_flop_behavioral_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/d_flip_flop_tb.v,1601856212,verilog,,,,d_flip_flop_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/d_latch_behavioral_tb.v,1601856212,verilog,,,,d_latch_behavioral_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/d_latch_tb.v,1601856212,verilog,,,,d_latch_tb,,,,,,,,
+C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/sr_latch_tb.v,1601856212,verilog,,,,sr_latch_tb,,,,,,,,
+C:/Users/justi/lab7/lab7.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/adder_2bit.v,1603168031,verilog,,C:/Users/justi/lab7/lab7.srcs/sources_1/new/adder_synchronous.v,,adder_2bit,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/adder_synchronous.v,1603168768,verilog,,C:/Users/justi/lab7/lab7.srcs/sources_1/new/full_adder.v,,adder_synchronous,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/d_flip_flop.v,1603140272,verilog,,C:/Users/justi/lab7/lab7.srcs/sources_1/new/d_latch.v,,d_flip_flop,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/d_flip_flop_behavioral.v,1603141034,verilog,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/d_flip_flop_behavioral_tb.v,,d_flip_flop_behavioral,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/d_latch.v,1603139706,verilog,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/d_flip_flop_tb.v,,d_latch,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/d_latch_behavioral.v,1603140762,verilog,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/d_latch_behavioral_tb.v,,d_latch_behavioral,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/full_adder.v,1603141458,verilog,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/adder_synchronous_tb.v,,full_adder,,,,,,,,
+C:/Users/justi/lab7/lab7.srcs/sources_1/new/sr_latch.v,1603138980,verilog,,C:/Users/justi/Downloads/248NeededFiles/248NeededFiles/sr_latch_tb.v,,sr_latch,,,,,,,,
